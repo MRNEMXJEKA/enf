@@ -1,0 +1,33 @@
+# IDE и редакторы
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Окружение
+.env
+
+# Логи
+*.log
+*.logs
+django.log
+security.log
+debug.logs
+
+# Базы данных
+db.sqlite3
+db.sqlite3-journal
+
+# Медиа
+media/
+
+# Временные файлы
+*.tmp
+*.swp
+*.swo
+
+# Резервные копии
+*.bak
+*.backup
